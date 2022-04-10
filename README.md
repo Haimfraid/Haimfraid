@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Haimfraid
+- 👀 I’m interested in ml, statistics and risk assesments
+- 🌱 I’m currently learning ml
+- 💞️ I’m looking to collaborate on anything fun
+- 📫 How to reach me haim.fraid@gmail.com
